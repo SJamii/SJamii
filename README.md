@@ -53,7 +53,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SJamii&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SJamii&theme=radical)](https://git.io/streak-stats)
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jf-ishrat&layout=compact&theme=vision-friendly-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
 <!--
 **SJamii/SJamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
