@@ -53,8 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SJamii&theme=radical)](https://git.io/streak-stats)
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SJamii&theme=radical)](https://git.io/streak-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJamii&layout=compact&theme=buefy&hide_border=true" /></a> |
 <!--
 **SJamii/SJamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
