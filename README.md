@@ -56,9 +56,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SJamii&theme=radical)](https://git.io/streak-stats)
 
-<a href="https://github.com/SJamii">
+<!-- <a href="https://github.com/SJamii">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJamii&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 <br>
 
